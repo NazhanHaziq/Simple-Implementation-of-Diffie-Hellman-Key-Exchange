@@ -29,6 +29,8 @@ The Objectives of this project are:
   
   ii. Break down the algorithm into its fundamental components and analyze each part to understand its role in the overall process.
 
+
+
   2. To implement the Diffie-Hellman key exchange using a unique example.
 
   Task:
@@ -36,6 +38,8 @@ The Objectives of this project are:
   i. Choose appropriate values for the prime number ppp and base ggg that will be used in the implementation.
       
   ii. Write the code to implement the Diffie-Hellman key exchange algorithm in a programming language of your choice (e.g., Python, Java, C++).
+
+
 
   3. To analyze and present the output of the key exchange.
 
